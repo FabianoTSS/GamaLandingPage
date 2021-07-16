@@ -12,5 +12,11 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 5px;
+
+}
+.style{
+    margin: 5px 5px 5px;
+    border-style: solid;
+    border-radius: 1px;
+    border-color: green;
 }
