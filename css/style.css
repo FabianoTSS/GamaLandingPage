@@ -1,11 +1,51 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
+
+header {
+    background-color: beige;
+}
+
+.conteudo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.subconteudo {
+    display: flex;
+    width: 70%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.cadastro {
+    width: 35%;
+}
+
+form {
+    display: grid;
+}
+
+form input {
+    margin: 2px 2px 2px 2px;
+    height: 30px;
+}
+
+.logo {
+    align-items: center;
+    display: flex;
+    width: 65%;
+    justify-content: center;
+}
+
+
+/*
 html{
     scroll-behavior: smooth;
 }
-/*
+
 .section-container {
     height: 40vh;
     width: 100%;
