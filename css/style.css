@@ -13,6 +13,16 @@ header {
     justify-content: center;
 }
 
+.conteudo-nav {
+    display: flex;
+    width: 70%;
+    justify-content: flex-end;
+}
+
+.conteudo-nav a {
+    margin: 10px 10px 10px 10px;
+}
+
 .subconteudo {
     display: flex;
     width: 70%;
@@ -37,7 +47,7 @@ form input {
     align-items: center;
     display: flex;
     width: 65%;
-    justify-content: center;
+    justify-content: flex-end;
 }
 
 
