@@ -4,7 +4,7 @@
 }
 
 header {
-    background-color: beige;
+    background-color: chartreuse;
 }
 
 .conteudo {
@@ -50,6 +50,41 @@ form input {
     justify-content: flex-end;
 }
 
+.card-produto {
+    width: 200px;
+    border: 1px solid blueviolet;
+}
+
+.card-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-center p {
+    padding: 10px 0 0 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.oferta {
+    background-color: cyan;
+    height: 50px;
+}
+
+.oferta-img {
+    height: 80px;
+}
+
+.desconto {
+    background-color: black;
+    height: 50px;
+}
+
+.card-center img {
+    width: 70%;
+    height: auto;
+}
+
 
 /*
 html{
@@ -70,11 +105,5 @@ html{
     border-radius: 1px;
     border-color: green;
 }
-.card-produto {
-    width: 200px;
-    height: 300px;
-    border-style: groove;
-    border-color: green;
-    border-radius: 1x;
-}
+
 */
