@@ -25,9 +25,11 @@ header {
 
 .subconteudo {
     display: flex;
+    flex-wrap: wrap;
     width: 70%;
     padding-top: 30px;
     padding-bottom: 30px;
+    justify-content: space-between;
 }
 
 .cadastro {
