@@ -37,11 +37,11 @@ cadastro.addEventListener('submit', (e) => {
     }
 });
 
-countdown("Aug 5, 2021 23:59:59", "countdown01");
-countdown("Aug 5, 2021 23:59:59", "countdown02");
-countdown("Aug 5, 2021 23:59:59", "countdown03");
-countdown("Aug 5, 2021 23:59:59", "countdown04");
-countdown("Aug 5, 2021 23:59:59", "countdown05");
+countdown("Aug 5, 2021 22:59:59", "countdown01");
+countdown("Aug 7, 2021 23:39:59", "countdown02");
+countdown("Aug 9, 2021 23:19:59", "countdown03");
+countdown("Aug 15, 2021 20:59:59", "countdown04");
+countdown("Aug 21, 2021 21:59:59", "countdown05");
 
 function countdown(end, id) {
     var countDownDate = new Date(end).getTime();
