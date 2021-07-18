@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <g clip-path="url(#cp3)">
+        <text fill="#7ed957" xml:space="preserve" font-size="32" font-family="Montserrat" font-weight="bold" transform="matrix(.75 0 0 .75 89.22136 14.962736)"><tspan y="30" x="0 26.080048 53.024095 84.44815 111.3922 121.12021 148.57627">GAMA NO</tspan></text>
+
+        <text fill="#7ed957" xml:space="preserve" transform="matrix(.75 0 0 .75 89.22136 14.962736)" font-size="32" font-family="Montserrat" font-weight="bold"><tspan y="64" x="0 22.912049 50.368104 78.43216 102.4962 126.56024 139.04027 166.49633">SHOPPING</tspan></text>
+
+        <text fill="#7ed957" xml:space="preserve" transform="matrix(.6625259 0 0 .6625259 89.22136 70.131649)" font-size="12" font-family="Unnamed">
+            <tspan y="12" x="0 5.9040286 17.844098 27.00014 39.15621 50.23227 63.68435 74.70041 83.796459 89.700489 100.50054">INFORMÁTICA</tspan>
+        </text>
+    </g>
+    <g clip-path="url(#cp4)">
+        <path transform="matrix(.75,0,0,.75,24.982148,18.753394)" d="M 0 0 L 72 0 L 72 5 L 0 5 Z " fill="#7ed957"/>
+    </g>
+    <g clip-path="url(#cp5)">
+        <clipPath id="cp6">
+            <path transform="matrix(.24,0,0,.24,0,0)" d="M 0 0 L 1562.5 0 L 1562.5 1562.5 L 0 1562.5 Z "/>
+        </clipPath>
+        <g clip-path="url(#cp6)">
+            <clipPath id="cp7">
+                <path transform="matrix(.24,0,0,.24,0,0)" d="M 148.69681 106.64821 L 173.69681 106.64821 L 173.69681 234.77321 L 148.69681 234.77321 Z "/>
+            </clipPath>
+            <g clip-path="url(#cp7)">
+                <path transform="matrix(.000000000000000045924258,-.75,.75,.000000000000000045924258,35.687234,56.34557)" d="M 0 0 L 41 0 L 41 8 L 0 8 Z " fill="#7ed957"/>
+            </g>
+        </g>
+    </g>
+    <g clip-path="url(#cp8)">
+        <clipPath id="cp9">
+            <path transform="matrix(.24,0,0,.24,0,0)" d="M 0 0 L 1562.5 0 L 1562.5 1562.5 L 0 1562.5 Z "/>
+        </clipPath>
+        <g clip-path="url(#cp9)">
+            <clipPath id="cp10">
+                <path transform="matrix(.24,0,0,.24,0,0)" d="M 183.07183 106.64821 L 208.07183 106.64821 L 208.07183 234.77321 L 183.07183 234.77321 Z "/>
+            </clipPath>
+            <g clip-path="url(#cp10)">
+                <path transform="matrix(.000000000000000045924258,-.75,.75,.000000000000000045924258,43.937238,56.34557)" d="M 0 0 L 41 0 L 41 8 L 0 8 Z " fill="#7ed957"/>
+            </g>
+        </g>
+    </g>
+    <g clip-path="url(#cp11)">
+        <clipPath id="cp12">
+            <path transform="matrix(.24,0,0,.24,0,0)" d="M 0 0 L 1562.5 0 L 1562.5 1562.5 L 0 1562.5 Z "/>
+        </clipPath>
+        <g clip-path="url(#cp12)">
+            <clipPath id="cp13">
+                <path transform="matrix(.24,0,0,.24,0,0)" d="M 217.44681 106.64821 L 242.44681 106.64821 L 242.44681 234.77321 L 217.44681 234.77321 Z "/>
+            </clipPath>
+            <g clip-path="url(#cp13)">
+                <path transform="matrix(.000000000000000045924258,-.75,.75,.000000000000000045924258,52.187234,56.34557)" d="M 0 0 L 41 0 L 41 8 L 0 8 Z " fill="#7ed957"/>
+            </g>
+        </g>
+    </g>
+    <g clip-path="url(#cp14)">
+        <clipPath id="cp15">
+            <path transform="matrix(.24,0,0,.24,0,0)" d="M 0 0 L 1562.5 0 L 1562.5 1562.5 L 0 1562.5 Z "/>
+        </clipPath>
+        <g clip-path="url(#cp15)">
+            <clipPath id="cp16">
+                <path transform="matrix(.24,0,0,.24,0,0)" d="M 251.82176 106.64821 L 276.82179 106.64821 L 276.82179 234.77321 L 251.82176 234.77321 Z "/>
+            </clipPath>
+            <g clip-path="url(#cp16)">
+                <path transform="matrix(.000000000000000045924258,-.75,.75,.000000000000000045924258,60.43722,56.34557)" d="M 0 0 L 41 0 L 41 8 L 0 8 Z " fill="#7ed957"/>
+            </g>
+        </g>
+    </g>
+    <g clip-path="url(#cp17)">
+        <path transform="matrix(.75,0,0,.75,24.982148,60.720167)" d="M 0 0 L 72 0 L 72 5 L 0 5 Z " fill="#7ed957"/>
+    </g>
+</svg>
