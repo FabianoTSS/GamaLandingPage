@@ -135,6 +135,10 @@ footer {
     justify-content: center;
 }
 
+.info-footer img {
+    height: 50px;
+}
+
 .info-cliente {
     width: 30%;
 }
